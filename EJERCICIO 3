@@ -1,0 +1,9 @@
+my_string = "Hola a todos esto es un marco"
+
+print(my_string[0:4])
+print(my_string[5])
+print(my_string[7:12])
+print(my_string[13:17])
+print(my_string[18:20])
+print(my_string[21:23])
+print(my_string[24:29])
