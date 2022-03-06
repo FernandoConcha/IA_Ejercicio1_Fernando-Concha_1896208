@@ -1,0 +1,10 @@
+nombre = input("Pon cualquier nombre")
+if nombre == "Ana":
+  print("")
+  if nombre == "Juan":
+    print("")
+    if nombre == "Pedro":
+      print("")
+else:
+     print("Buenos días")   
+     
